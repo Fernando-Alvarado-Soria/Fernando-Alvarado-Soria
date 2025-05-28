@@ -34,9 +34,6 @@ Ingeniero de Software Full Stack, apasionado por la tecnología y la resolución
 ---
 
 ### 📂 Repositorios destacados
-
-### 📂 Repositorios destacados
-
 | Proyecto | Descripción | Alojado |
 |----------|-------------|---------|
 | [SitioWebU](https://github.com/FerGod/SitioWebU) | Proyecto web en HTML con diseño responsive básico. | [sitowebu.vercel.app](https://uplc.edu.mx/) |
@@ -44,12 +41,24 @@ Ingeniero de Software Full Stack, apasionado por la tecnología y la resolución
 ---
 
 ### 📫 Cómo contactarme
-
-- **Email:** fernan.alvarado201@gmail.com  
-- **LinkedIn:** [linkedin.com/in/fernandoalvarado](https://linkedin.com/in/fernandoalvarado)  
-- **Indeed** [@fergod_dev](https://twitter.com/fergod_dev)
-
----
+<p align="center">
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/alvarado-soria-fernando-9bb433246/" target="blank">
+    <img src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="LinkedIn" height="50" width="50" />
+  </a>
+  <!-- Gmail -->
+  <a href="fernan.alvarado201@gmail.com" target="blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Gmail" height="50" width="50" />
+  </a>
+  <!-- Discord -->
+  <a href="https://discordapp.com/users/tu-id-o-usuario" target="blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111370.png" alt="Discord" height="50" width="50" />
+  </a>
+  <!-- Indeed -->
+  <a href="https://profile.indeed.com/?hl=es_MX&co=MX&from=gnav-homepage" target="blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Indeed_logo.png" alt="Indeed" height="50" width="50" />
+  </a>
+</p>
 
 <p align="center">Gracias por visitar mi perfil 🙌</p>
 
