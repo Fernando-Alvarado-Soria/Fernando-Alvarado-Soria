@@ -7,7 +7,7 @@ Ingeniero de Software Full Stack, apasionado por la tecnología y la resolución
 - 🚀 Apasionado por el desarrollo front-end y back-end.
 - 🧩 Presto mis servicios como freelancer.
 - 📚 Actualmente aprendiendo Docker y AWS.
-- 📄 Disponible para desarrollos de software u oportunidades laborales → [Ver mi currículum](https://link-al-cv.com).
+- 📄 Disponible para desarrollos de software u oportunidades laborales
 
 ---
 
