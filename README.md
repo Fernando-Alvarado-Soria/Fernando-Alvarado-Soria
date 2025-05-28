@@ -27,7 +27,7 @@ Ingeniero de Software Full Stack, apasionado por la tecnología y la resolución
   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968945.png" alt="Firebase" width="60" height="60"/>
   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" alt="DigitalOcean" width="60" height="60"/>
   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968520.png" alt="Photoshop" width="60" height="60"/>
-  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968709.png" alt="Adobe XD" width="60" height="60"/>
+  <img src="https://img.shields.io/badge/Adobe_XD-FF61F6?style=flat&logo=adobe-xd&logoColor=white" alt="Adobe XD" width="60" height="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="60" height="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="60" height="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" width="60" height="60"/>
