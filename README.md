@@ -36,8 +36,9 @@ Ingeniero de Software Full Stack, apasionado por la tecnología y la resolución
 ### 📂 Repositorios destacados
 | Proyecto | Descripción | Alojado |
 |----------|-------------|---------|
-| [SitioWebU](https://github.com/FerGod/SitioWebU) | Proyecto web en HTML con diseño responsive básico. | [sitowebu.vercel.app](https://uplc.edu.mx/) |
-| [Otro Proyecto](https://github.com/FerGod/OtroProyecto) | Descripción breve del proyecto más reciente o importante. | [myproject.com](https://myproject.com) |
+| [SitioWebU](https://github.com/FerGod/SitioWebU) | Proyecto web basico para la universidad donde estudie | [sitowebU](https://uplc.edu.mx/) |
+| [AAALAC2025](#) | Proyecto con back-end y front-end para una agencia aduanal privada | [plataforma.aaalac.mx](https://plataforma.aaalac.mx/) |
+| [Sistema Escolar](https://github.com/mEquihua/SitioWebUPLC) | Proyecto con back-end y front-end para una escuela institucional | Alojamiento en mantenimiento |
 ---
 
 ### 📫 Cómo contactarme
@@ -56,7 +57,7 @@ Ingeniero de Software Full Stack, apasionado por la tecnología y la resolución
   </a>
   <!-- Indeed -->
   <a href="https://profile.indeed.com/?hl=es_MX&co=MX&from=gnav-homepage" target="blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Indeed_logo.png" alt="Indeed" height="50" width="50" />
+    <img src="https://cdn-icons-png.flaticon.com/512/5977/5977577.png" alt="Indeed" height="50" width="50" />
   </a>
 </p>
 
