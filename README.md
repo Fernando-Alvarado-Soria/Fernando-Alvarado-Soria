@@ -25,7 +25,7 @@ Ingeniero de Software Full Stack, apasionado por la tecnología y la resolución
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="60" height="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="60" height="60"/>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" alt="Firebase" width="60" height="60"/>
-  <img src="[https://cdn-icons-png.flaticon.com/512/5968/5968705.png](https://img.shields.io/badge/DigitalOcean-0080FF?style=flat&logo=digitalocean&logoColor=white)" alt="DigitalOcean" width="60" height="60"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png](https://img.shields.io/badge/DigitalOcean-0080FF?style=flat&logo=digitalocean&logoColor=white" alt="DigitalOcean" width="60" height="60"/>
   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968520.png" alt="Photoshop" width="60" height="60"/>
   <img src="https://img.shields.io/badge/Adobe_XD-FF61F6?style=flat&logo=adobe-xd&logoColor=white" alt="Adobe XD" width="60" height="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="60" height="60"/>
