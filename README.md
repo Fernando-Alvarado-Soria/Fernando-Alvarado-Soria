@@ -1,6 +1,5 @@
 <h1 align="center">Hola, soy Fernando Alvarado 👋</h1>
 Ingeniero de Software Full Stack, apasionado por la tecnología y la resolución de problemas. Me encanta construir soluciones eficientes tanto en el frontend como en el backend, combinando lógica, diseño y experiencia de usuario. Siempre estoy aprendiendo y buscando nuevos retos que me permitan crecer profesional y personalmente.
----
 
 ### 🧑‍💻 Acerca de mí
 - 💻 Desarrollador FullStack en Asociación de Agentes Aduanales de Lázaro Cárdenas.
