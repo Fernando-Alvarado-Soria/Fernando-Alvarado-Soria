@@ -39,6 +39,7 @@ Ingeniero de Software Full Stack, apasionado por la tecnología y la resolución
 | [SitioWebU](https://github.com/FerGod/SitioWebU) | Proyecto web basico (HTML, CSS, JAVASCRIPT) para la universidad donde estudie | [uplc.edu.mx](https://uplc.edu.mx/) |
 | [AAALAC2025](#) | Proyecto con back-end(PYTHON, MYSQL, DJANGO, DIGITAN OCEAN PARA EL SERVIDOR) y front-end (HTML, TAILWIND, JAVASCRIPT) para una agencia aduanal privada | [plataforma.aaalac.mx](https://plataforma.aaalac.mx/) |
 | [Sistema Escolar](https://github.com/mEquihua/SitioWebUPLC) | Proyecto con back-end (PHP, MYSQL, HOSTINGER PARA EL SERVIDOR) y front-end(HTML, CSS, JAVASCRIPT) para una escuela institucional | Alojamiento en mantenimiento |
+| [Keylogger](https://github.com/Fernando-Alvarado-Soria/keyloggerPython) | Proyecto malware y spyware hecho con python fue creado para fines educativos favor de no hacer uso indevido de el | Sin alojamiento |
 ---
 
 ### 📫 Cómo contactarme
