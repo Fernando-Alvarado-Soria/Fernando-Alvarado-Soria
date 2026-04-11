@@ -39,6 +39,8 @@ Ingeniero de Software Full Stack, apasionado por la tecnología y la resolución
 | [SitioWebU](https://github.com/FerGod/SitioWebU) | Proyecto web basico (HTML, CSS, JAVASCRIPT) para la universidad donde estudie | [uplc.edu.mx](https://uplc.edu.mx/) |
 | [AAALAC2025](#) | Proyecto con back-end(PYTHON, MYSQL, DJANGO, DIGITAN OCEAN PARA EL SERVIDOR) y front-end (HTML, TAILWIND, JAVASCRIPT) para una agencia aduanal privada | [plataforma.aaalac.mx](https://plataforma.aaalac.mx/) |
 | [Pagina AAALAC](#) | Proyecto pagina web (HTML, CSS, JAVASCRIP) Desarrollo de sitio web de AAALAC con enfoque en presencia digital, optimización de carga y despliegue en infraestructura cloud y servicios aduaneros. | [www.aaalac.mx](https://www.aaalac.mx/)  |
+| [Flota Control](#) | Aplicación web hecha con django y python para la gestión y control de flotas de vehículos, optimizando rutas, mantenimiento y seguimiento en tiempo real enfocado en la eficiencia operativa. | [Flota Control](https://monkfish-app-2nj4v.ondigitalocean.app/)  |
+| [Entrenamiento LMS de comida](#) | Proyecto hecho en python con kivy, enfocado en reconocimiento de comida y valor nutrimental por macronutrientes. Aun en fase beta el modelo entrenado está en la nube, ya se conecta con la aplicación de kivy. | [App Calorias](https://app-caloriasv2-production.up.railway.app/docs)  |
 | [Keylogger](https://github.com/Fernando-Alvarado-Soria/keyloggerPython) | Proyecto malware y spyware hecho con python fue creado para fines educativos favor de no hacer uso indevido de este script | Sin alojamiento |
 | [AsistenteVirtual](https://github.com/Fernando-Alvarado-Soria/virtualAssistantPython) | Proyecto asistente virtual de computadora hecho con python  | sin alojamiento |
 ---
