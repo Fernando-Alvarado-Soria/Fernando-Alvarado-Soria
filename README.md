@@ -13,6 +13,7 @@ Ingeniero de Software Full Stack, apasionado por la tecnología y la resolución
 
 ### 🔧 Tecnologías y herramientas
 
+<div align="center">
 <table>
   <tr>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="45"/><br>HTML5</td>
@@ -36,9 +37,10 @@ Ingeniero de Software Full Stack, apasionado por la tecnología y la resolución
     <td align="center"><img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" alt="Firebase"/><br>Firebase</td>
     <td align="center"><img src="https://img.shields.io/badge/Adobe_XD-FF61F6?style=flat&logo=adobe-xd&logoColor=white" alt="Adobe XD"/><br>Adobe XD</td>
     <td align="center"><img src="https://img.shields.io/badge/DigitalOcean-0167FF?style=flat&logo=digitalocean&logoColor=white" alt="DigitalOcean"/><br>DigitalOcean</td>
-    <td align="center"></td>
+    <td></td>
   </tr>
 </table>
+</div>
 
 ### 📂 Repositorios destacados
 | Proyecto | Descripción | Alojado |
