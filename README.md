@@ -55,24 +55,32 @@ Ingeniero de Software Full Stack, apasionado por la tecnología y la resolución
 ---
 
 ### 📫 Cómo contactarme
-<p align="center">
-  <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/alvarado-soria-fernando-9bb433246/" target="blank">
-    <img src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="LinkedIn" height="50" width="50" />
-  </a>
-  <!-- Gmail -->
-  <a href="fernan.alvarado201@gmail.com" target="blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Gmail" height="50" width="50" />
-  </a>
-  <!-- Discord -->
-  <a href="https://discordapp.com/users/tu-id-o-usuario" target="blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111370.png" alt="Discord" height="50" width="50" />
-  </a>
-  <!-- Indeed -->
-  <a href="https://profile.indeed.com/?hl=es_MX&co=MX&from=gnav-homepage" target="blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/5977/5977577.png" alt="Indeed" height="50" width="50" />
-  </a>
-</p>
 
+<div align="center">
+  <table style="border: 1px solid #444; border-radius: 14px; border-collapse: separate; border-spacing: 14px; padding: 8px;">
+    <tr>
+      <td align="center">
+        <a href="https://www.linkedin.com/in/alvarado-soria-fernando-9bb433246/" target="_blank">
+          <img src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="LinkedIn" height="48" width="48" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="mailto:fernan.alvarado201@gmail.com">
+          <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Gmail" height="48" width="48" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://discordapp.com/users/tu-id-o-usuario" target="_blank">
+          <img src="https://cdn-icons-png.flaticon.com/512/2111/2111370.png" alt="Discord" height="48" width="48" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://profile.indeed.com/?hl=es_MX&co=MX&from=gnav-homepage" target="_blank">
+          <img src="https://cdn-icons-png.flaticon.com/512/5977/5977577.png" alt="Indeed" height="48" width="48" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
 <p align="center">Gracias por visitar mi perfil 🙌</p>
 
